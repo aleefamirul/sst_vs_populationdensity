@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Conda / environment files
+.env
+
+# Large scientific data files
+*.nc
+*.nc4
+*.h5
+*.hdf5
